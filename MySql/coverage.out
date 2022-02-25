@@ -1,0 +1,15 @@
+mode: set
+github/aks/CRUD/MySql/main.go:16.22,24.2 2 1
+github/aks/CRUD/MySql/main.go:28.13,51.2 4 0
+github/aks/CRUD/MySql/main.go:55.38,60.14 3 1
+github/aks/CRUD/MySql/main.go:64.2,64.12 1 1
+github/aks/CRUD/MySql/main.go:60.14,62.3 1 1
+github/aks/CRUD/MySql/main.go:70.48,79.14 5 1
+github/aks/CRUD/MySql/main.go:85.2,85.16 1 1
+github/aks/CRUD/MySql/main.go:79.14,81.3 1 1
+github/aks/CRUD/MySql/main.go:91.56,96.14 3 1
+github/aks/CRUD/MySql/main.go:100.2,100.12 1 1
+github/aks/CRUD/MySql/main.go:96.14,98.3 1 1
+github/aks/CRUD/MySql/main.go:105.43,110.14 3 1
+github/aks/CRUD/MySql/main.go:114.2,114.12 1 1
+github/aks/CRUD/MySql/main.go:110.14,112.3 1 1
